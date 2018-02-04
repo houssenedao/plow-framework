@@ -1,7 +1,7 @@
 vendor/
 node_modules/
 npm-debug.log
-/.idea
-/composer.lock
-/.vscode
-/.DS_Store
+.idea
+composer.lock
+.vscode
+.DS_Store
